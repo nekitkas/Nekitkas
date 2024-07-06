@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a backend developer specializing in REST APIs. I love creating robust and scalable solutions using a variety of backend technologies.
+I'm a backend developer specializing in REST APIs
 
 ### Technologies & Tools
 <p align="center" dir="auto">
